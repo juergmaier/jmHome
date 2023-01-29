@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65ece028-a822-461f-be4c-4814aabbd3a7" name="keller" url="http://keller">
+        <fileTransfer rootFolder="/home/keller/Projekte" accessType="SFTP" host="keller" port="22" sshConfigId="7df5ba69-2257-4c10-9f41-1ec7a0467708" sshConfig="keller@keller:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
